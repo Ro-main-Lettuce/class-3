@@ -6,11 +6,10 @@ using namespace std;
 /**
  * Rosalyn Navarrete
  * rdn0011
- * project2_Navarrete_rdn0011.cpp
- * g++ project2_Navarrete_rdn0011.cpp
+ * project_2.cpp
+ * g++ project_2.cpp
  * ./a.out (to run)
  * press enter many times to see output
- * I used the project file, geeksforgeeks to explain srand and rand, TA explained testing via email + in-person, Dr.Li talking about project during class.
  */
 
 // constants for shoot percent of aaron, bob
@@ -218,7 +217,7 @@ int main() {
 
     //random generator
     srand(time(0));
-    cout << "***Welcome to Rosalyn's Duel Simulator***" << endl;
+    cout << "***Welcome to Ro_main_Lettuce's Duel Simulator***" << endl;
     // tests the at_least_two_alive
     test_at_least_two_alive();
     press_to_continue();
