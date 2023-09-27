@@ -2,17 +2,14 @@
 #include <cmath>
 #include <cstdlib>
 using namespace std;
-/* Rosalyn Navarrete
- * rdn0011
- * project1_Navarrete_rdn0011.cpp
+/* User
+ * project_1.cpp
  * to compile the code, the following:
- * g++ project1_Navarrete_rdn0011.cpp -o testPUno
+ * g++ project_1.cpp
  * to test the code, the following:
- * ./testPUno
+ * ./a.out
  * enter values of the first case (1000,18,50), second case (2000,12,80)
- * getbrightup.com to get the formula for monthly calculation
- * exit() being explained by TA Weekaroon
- * James S.Plank online notes for cin.fail()
+ * sources
  */
 int main() {
     // sets the numbers to be read with a decimal, from Ch.1 of C++ textbook
