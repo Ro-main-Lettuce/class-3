@@ -4,8 +4,7 @@
 #include <ctime>
 using namespace std;
 /**
- * Rosalyn Navarrete
- * rdn0011
+ * ro-main lettuce
  * project_2.cpp
  * g++ project_2.cpp
  * ./a.out (to run)
