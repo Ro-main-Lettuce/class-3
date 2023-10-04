@@ -1,4 +1,4 @@
-# COMP2710Sub
-Class projects in the Computing course 2710. Coding in c++
+# class-3
+Class projects in a course. Coding in c++
 Fall 2023. Projects from the Software Construction course.
 
